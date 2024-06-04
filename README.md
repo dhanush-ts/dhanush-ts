@@ -6,7 +6,7 @@
 
 🤔   Aspiring Data Scientist with in-depth knowledge in machine learning and deep learning.
 
-💼   Experienced in various projects and currently exploring both front-end and back-end development.
+💼   Experience in various Data Science projects and currently exploring both front-end and back-end development.
 
 🌱   On a journey to become a full-stack developer with comprehensive data science skills.
 
