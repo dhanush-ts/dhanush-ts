@@ -3,20 +3,24 @@
 ---
 
 <h3 align="center">
-    <span> I am a </span>
+    <span>I am a </span>
     <span class="changing-text">Coder</span>
 </h3>
 
-<script>
-    const roles = ["Coder", "Full Stack Developer", "Data Scientist", "Data Analyst"];
-    let currentIndex = 0;
-    function changeRole() {
-        document.querySelector('.changing-text').textContent = roles[currentIndex];
-        currentIndex = (currentIndex + 1) % roles.length;
+<style>
+    .changing-text {
+        animation: change 4s infinite;
+        font-weight: bold;
     }
-    setInterval(changeRole, 1500);
-</script>
 
+    @keyframes change {
+        0% { content: "Coder"; }
+        25% { content: "Full Stack Developer"; }
+        50% { content: "Data Scientist"; }
+        75% { content: "Data Analyst"; }
+        100% { content: "Coder"; }
+    }
+</style>
 ---
 
 ### 👨🏻‍💻 About Me
