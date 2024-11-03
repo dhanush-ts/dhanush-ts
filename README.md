@@ -1,23 +1,42 @@
-## Hi, Dhanush this side!
+<h1 align="center">Hi, Dhanush this side! 👋</h1>
 
 ---
 
-👨🏻‍💻  **About Me**
+<h3 align="center">
+    <span> I am a </span>
+    <span class="changing-text">Coder</span>
+</h3>
 
-🤔   Aspiring Data Scientist with in-depth knowledge in machine learning and deep learning.
-
-💼   Experience in various Data Science projects and currently exploring both front-end and back-end development.
-
-🌱   On a journey to become a full-stack developer with comprehensive data science skills.
-
-⚡️   Fun fact: I'm a tech enthusiast and love diving into new technologies.
+<script>
+    const roles = ["Coder", "Full Stack Developer", "Data Scientist", "Data Analyst"];
+    let currentIndex = 0;
+    function changeRole() {
+        document.querySelector('.changing-text').textContent = roles[currentIndex];
+        currentIndex = (currentIndex + 1) % roles.length;
+    }
+    setInterval(changeRole, 1500);
+</script>
 
 ---
 
-## My Tech Stack
+### 👨🏻‍💻 About Me
 
-### Data Science & Analytical Skills
+- 🤔   Aspiring Data Scientist with in-depth knowledge in machine learning and deep learning.
+- 💼   Experienced in diverse Data Science projects and currently exploring both front-end and back-end development.
+- 🌱   On a journey to become a full-stack developer with comprehensive data science skills.
+- ⚡️   **Fun fact:** I'm a tech enthusiast and love diving into new technologies.
 
+---
+
+### 🎧 Currently Listening to
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/) <!-- Link to your Spotify account here -->
+
+---
+
+### 🛠️ My Tech Stack
+
+#### Data Science & Analytical Skills
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -32,8 +51,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 </p>
 
-### Front-End Development Skills
-
+#### Front-End Development Skills
 <p align="left">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
@@ -43,15 +61,44 @@
 
 ---
 
-# My Developer Profile
+## 📊 My Developer Profile
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-ts&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-ts&layout=compact&theme=radical" alt="Top Languages" style="width: 34%;">
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dhanush-ts&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-ts&layout=compact&theme=radical" alt="Top Languages" width="34%">
+</p>
 
 ---
 
-## LeetCode Stats
+### 🌟 Commit History and Activity
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=dhanush-ts&theme=radical" alt="Contribution Graph">
+</p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/tsdhanush169/)
+---
+
+## 🧩 Problem Solving
+
+### LeetCode Stats
+<p align="center">
+    <a href="https://leetcode.com/u/tsdhanush169/">
+        <img src="https://leetcard.jacoblin.cool/tsdhanush169?theme=dark&ext=heatmap" alt="LeetCode Profile" width="60%">
+    </a>
+</p>
+
+### GeeksforGeeks Stats
+<p align="center">
+    <a href="https://www.geeksforgeeks.org/user/tsdhanuzekk/">
+        <img src="https://geek-for-geeks-profile.herokuapp.com/?username=tsdhanuzekk" alt="GFG Profile" width="60%">
+    </a>
+</p>
+
+---
+
+### 📈 Activity Breakdown
+![Profile Views](https://komarev.com/ghpvc/?username=dhanush-ts&color=blue)
+[![GitHub Followers](https://img.shields.io/github/followers/dhanush-ts?label=Followers&style=social)](https://github.com/dhanush-ts?tab=followers)
+
+---
+
+Thank you for visiting my profile! 😊 Let's connect and make something awesome together!
