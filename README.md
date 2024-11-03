@@ -1,40 +1,11 @@
 <h1 align="center">Hi, Dhanush this side! 👋</h1>
 
----
-
-<h3 align="center">
-    <span>I am a </span>
-    <span class="changing-text">Coder</span>
-</h3>
-
-<style>
-    .changing-text {
-        animation: change 4s infinite;
-        font-weight: bold;
-    }
-
-    @keyframes change {
-        0% { content: "Coder"; }
-        25% { content: "Full Stack Developer"; }
-        50% { content: "Data Scientist"; }
-        75% { content: "Data Analyst"; }
-        100% { content: "Coder"; }
-    }
-</style>
----
-
 ### 👨🏻‍💻 About Me
 
 - 🤔   Aspiring Data Scientist with in-depth knowledge in machine learning and deep learning.
 - 💼   Experienced in diverse Data Science projects and currently exploring both front-end and back-end development.
 - 🌱   On a journey to become a full-stack developer with comprehensive data science skills.
 - ⚡️   **Fun fact:** I'm a tech enthusiast and love diving into new technologies.
-
----
-
-### 🎧 Currently Listening to
-
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31l2a5bruqdgatkb56lwqdhxt7d4)
 
 ---
 
@@ -75,9 +46,7 @@
 ---
 
 ### 🌟 Commit History and Activity
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=dhanush-ts&theme=radical" alt="Contribution Graph">
-</p>
+[![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanush-ts&custom_title=Commit%20Graph&hide_border=true&theme=github-compact)](https://github.com/dhanush-ts/github-readme-activity-graph)
 
 ---
 
