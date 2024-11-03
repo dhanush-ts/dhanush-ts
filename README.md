@@ -34,7 +34,7 @@
 
 ### 🎧 Currently Listening to
 
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/) [[<!-- Link to your Spotify account here -->](https://accounts.spotify.com/en/login/ott/v2#token=zfFOdvpOSJ2-9z57LzCoMg)]
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31l2a5bruqdgatkb56lwqdhxt7d4)
 
 ---
 
