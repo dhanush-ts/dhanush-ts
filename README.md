@@ -92,8 +92,7 @@
 
 ### GeeksforGeeks Stats
 <p align="center">
-    <a href="https://www.geeksforgeeks.org/user/tsdhanuzekk/">
-        <img src="https://geek-for-geeks-profile.herokuapp.com/?username=tsdhanuzekk" alt="GFG Profile" width="60%">
+    <a href="https://www.geeksforgeeks.org/user/tsdhanuzekk/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=tsdhanuzekk" alt="GFG stats"/></a>
     </a>
 </p>
 
