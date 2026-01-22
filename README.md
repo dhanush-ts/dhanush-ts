@@ -53,7 +53,6 @@ Aspiring Data Scientist | ML & DL Enthusiast | Full Stack Developer Journey 🚀
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhanush-ts&show_icons=true&theme=radical&hide_border=true&v=1" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=dhanush-ts&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
