@@ -1,52 +1,89 @@
 <h1 align="center">Hi, Dhanush this side! 👋</h1>
 
-### 👨🏻‍💻 About Me
+<p align="center">
+Aspiring Data Scientist | ML & DL Enthusiast | Full Stack Developer Journey 🚀
+</p>
 
-- 🤔   Aspiring Data Scientist with in-depth knowledge in machine learning and deep learning.
-- 💼   Experienced in diverse Data Science projects and currently exploring both front-end and back-end development.
-- 🌱   On a journey to become a full-stack developer with comprehensive data science skills.
-- ⚡️   **Fun fact:** I'm a tech enthusiast and love diving into new technologies.
+<p align="center">
+  <a href="https://github.com/dhanush-ts"><img src="https://img.shields.io/github/followers/dhanush-ts?label=Followers&style=for-the-badge" /></a>
+  <a href="https://github.com/dhanush-ts"><img src="https://komarev.com/ghpvc/?username=dhanush-ts&style=for-the-badge&color=blue" /></a>
+</p>
 
 ---
 
-### 🛠️ My Tech Stack
+## 👨🏻‍💻 About Me
 
-#### Data Science & Analytical Skills
+- 🤔 Aspiring Data Scientist with strong skills in **Machine Learning & Deep Learning**
+- 💼 Hands-on with real-world **Data Science projects**
+- 🌱 Exploring both **Front-end + Back-end development**
+- ⚡ Fun fact: **I love diving into new technologies & building projects**
+
+---
+
+## 🛠️ My Tech Stack
+
+### 🚀 Skills & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,react,tailwind,mysql,git,github,postman" />
+</p>
+
+### 📌 Data Science & Analytics
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-8EC07C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-8EC07C?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 </p>
 
-#### Front-End Development Skills
+### 🌐 Front-End / Development
 <p align="left">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 My Developer Profile
+# 🚀 GitHub Analytics Dashboard
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dhanush-ts&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-ts&layout=compact&theme=radical" alt="Top Languages" width="34%">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhanush-ts&show_icons=true&theme=radical&hide_border=true&v=1" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=dhanush-ts&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanush-ts&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhanush-ts&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhanush-ts&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhanush-ts&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhanush-ts&theme=radical&utcOffset=5.5" />
 </p>
 
 ---
 
-### 🌟 Commit History and Activity
-[![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanush-ts&custom_title=Commit%20Graph&hide_border=true&theme=github-compact)](https://github.com/dhanush-ts/github-readme-activity-graph)
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhanush-ts&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📈 Contribution Graph (Always Works ✅)
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/dhanush-ts" alt="GitHub Contributions Chart" />
+</p>
 
 ---
 
@@ -54,23 +91,34 @@
 
 ### LeetCode Stats
 <p align="center">
-    <a href="https://leetcode.com/u/tsdhanush169/">
-        <img src="https://leetcard.jacoblin.cool/tsdhanush169?theme=dark&ext=heatmap" alt="LeetCode Profile" width="60%">
-    </a>
+  <a href="https://leetcode.com/u/tsdhanush169/">
+    <img src="https://leetcard.jacoblin.cool/tsdhanush169?theme=dark&ext=heatmap" alt="LeetCode Profile" width="70%"/>
+  </a>
 </p>
 
 ### GeeksforGeeks Stats
 <p align="center">
-    <a href="https://www.geeksforgeeks.org/user/tsdhanuzekk/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=tsdhanuzekk" alt="GFG stats"/></a>
-    </a>
+  <a href="https://www.geeksforgeeks.org/user/tsdhanuzekk/">
+    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=tsdhanuzekk" alt="GFG stats"/>
+  </a>
 </p>
 
 ---
 
-### 📈 Activity Breakdown
-![Profile Views](https://komarev.com/ghpvc/?username=dhanush-ts&color=blue)
-[![GitHub Followers](https://img.shields.io/github/followers/dhanush-ts?label=Followers&style=social)](https://github.com/dhanush-ts?tab=followers)
+## 🐍 Contribution Snake Animation (Super Impressive 🔥)
+
+![snake gif](https://github.com/dhanush-ts/dhanush-ts/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-Thank you for visiting my profile! 😊 Let's connect and make something awesome together!
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/dhanush-ts"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/tsdhanush169/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.geeksforgeeks.org/user/tsdhanuzekk/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ Thank you for visiting my profile! Let's connect and build something awesome together 😊
